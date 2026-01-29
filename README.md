@@ -53,3 +53,9 @@ It also includes features for patient guidance, personalized therapy, and expert
 8. Post-Therapy Feedback collection to monitor patient progress
 
 9. Expert Doctor Consultation option for serious injuries or cases requiring professional attention
+
+
+🔒 Source Code Availability:
+
+Due to academic integrity, security, and patient data privacy concerns, the complete source code of this project is maintained in a private repository.
+Access can be provided to supervisors upon official request.
